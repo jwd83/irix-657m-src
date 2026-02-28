@@ -1,2 +1,2 @@
-# irix-6517-src
-The IRIX 6.5.17 source code.
+# irix-657m-src
+The IRIX 6.5.7m source code.
